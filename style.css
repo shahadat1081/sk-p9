@@ -37,6 +37,22 @@
     color: white;
  
 }
+   .heading h2{
+    font-size: 1.6rem;
+    color:black;
+    font-weight: 700;
+    text-align: center;
+}
+.heading p{
+    width: 80%;
+    margin: 0 auto;
+    font-size: 1.1rem;
+    padding-bottom: 1.2rem;
+    margin-top: 1rem;
+    text-align: center;
+    
+    
+}
 
 footer{
  background-color: #999;
