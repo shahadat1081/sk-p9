@@ -30,7 +30,6 @@
     .marque{
     font-size: 2rem;
     font-weight: bold;
-    margin-top: 1rem;
     border-bottom: 2px solid rgba(0, 0,0, 0.3);
     background:linear-gradient(200deg, rgba(22,125,55)0%, rgba(12,125,155)30%, rgba(42,15,95)80%) ;
     padding: 0.5rem;
@@ -53,7 +52,22 @@
     
     
 }
-
+  .heading h2{
+    font-size: 1.6rem;
+    color:black;
+    font-weight: 700;
+    text-align: center;
+}
+.heading p{
+    width: 80%;
+    margin: 0 auto;
+    font-size: 1.1rem;
+    padding-bottom: 1.2rem;
+    margin-top: 1rem;
+    text-align: center;
+    
+    
+}
 footer{
  background-color: #999;
     padding: 4rem ;
@@ -96,7 +110,7 @@ footer{
     font-weight: bold;
     background-color: rgb(212, 27, 42);
     display: inline-block;
-    padding: 1rem 1.3rem;
+    padding: 2rem 1.5rem;
     border-radius: 8px;
     border: none;
     outline: none;
@@ -117,7 +131,7 @@ footer{
     text-decoration: none;
     color: white;
     padding: 0 0.5rem;
-    font-size: 24px;
+    font-size: 35px;
 }
 @media(max-width: 480px){
     .imm{
